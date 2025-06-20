@@ -13,5 +13,6 @@ You can find me on [![LinkedIn][2.2]][2].<br />
 Email: ola@gmail.com
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https://linkedin.com/dev-joaodasilva
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodasilva-dev)](https://github.com/anuraghazra/github-readme-stats)
